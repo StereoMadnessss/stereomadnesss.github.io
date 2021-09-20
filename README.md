@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+Welcome to StereoMadnesss's New Site
 
-You can use the [editor on GitHub](https://github.com/StereoMadnessss/stereomadnesss.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Projects (PMC Only):
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Worlds/Maps:
+The Sky's End: https://www.planetminecraft.com/project/the-sky-s-end/
 
-### Markdown
+Texture Packs/Resource Packs:
+Minecraft 16 (Discontinued): https://www.planetminecraft.com/texture-pack/minecraft-16-dev-discontinued/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Paeonias: https://www.planetminecraft.com/texture-pack/paeonias-requires-optifine/
 
-```markdown
-Syntax highlighted code block
+BetaQuiver Reborn: https://www.planetminecraft.com/texture-pack/betaquiver-reborn/
 
-# Header 1
-## Header 2
-### Header 3
+Burping Pigs: https://www.planetminecraft.com/texture-pack/burping-pigs/
 
-- Bulleted
-- List
+Broken Bat Pack 1.15 (This is no longer worked on): https://www.planetminecraft.com/texture-pack/broken-bat-pack-1-15-pre3-unfinished/
 
-1. Numbered
-2. List
+Mods:
+Classic Decorations (Currently Being Updated): https://www.planetminecraft.com/mod/classic-decorations-5299758/
 
-**Bold** and _Italic_ and `Code` text
+Datapacks:
 
-[Link](url) and ![Image](src)
-```
+https://www.planetminecraft.com/data-pack/21w06a-datapack-overworld-recreation-2192021754/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StereoMadnessss/stereomadnesss.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Main Page:
+https://planetminecraft.com/member/StereoMadnessss
