@@ -5,25 +5,26 @@ Note: to get to the actual websites you may need to highlight the links and open
 Projects (PMC Only):
 
 
-Worlds/Maps:
-The Sky's End: http://planetminecraft.com/project/the-sky-s-end/
+Worlds/Maps
+
+# https://planetminecraft.com/project/the-sky-s-end/ The Sky's End (Fixed Google Drive Download)
 
 Texture Packs/Resource Packs:
-Minecraft 16 (Discontinued): http://planetminecraft.com/texture-pack/minecraft-16-dev-discontinued/
+# https://planetminecraft.com/texture-pack/minecraft-16-dev-discontinued/ Minecraft 16
 
-Paeonias: http://planetminecraft.com/texture-pack/paeonias-requires-optifine/
+# https://planetminecraft.com/texture-pack/paeonias-requires-optifine/ Paeonias
 
-BetaQuiver Reborn: http://planetminecraft.com/texture-pack/betaquiver-reborn/
+# https://planetminecraft.com/texture-pack/betaquiver-reborn/ BetaQuiver Reborn
 
-Burping Pigs: http://planetminecraft.com/texture-pack/burping-pigs/
+# https://planetminecraft.com/texture-pack/burping-pigs/ Burping Pigs
 
-Broken Bat Pack 1.15 (This is no longer worked on): http://planetminecraft.com/texture-pack/broken-bat-pack-1-15-pre3-unfinished/
+# https://planetminecraft.com/texture-pack/broken-bat-pack-1-15-pre3-unfinished/ Broken Bat Pack (No Longer being worked on due to technical issues)
 
 Mods:
-Classic Decorations (Currently Being Updated): http://planetminecraft.com/mod/classic-decorations-5299758/
+# https://planetminecraft.com/mod/classic-decorations-5299758/ Classic Decorations (Current)
 
 Datapacks:
-http://planetminecraft.com/data-pack/21w06a-datapack-overworld-recreation-2192021754/
+# https://planetminecraft.com/data-pack/21w06a-datapack-overworld-recreation-2192021754/ Overworld Recreation
 
 Main Page:
-http://planetminecraft.com/member/StereoMadnessss
+# https://planetminecraft.com/member/StereoMadnessss My PMC Page
